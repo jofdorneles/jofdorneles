@@ -14,7 +14,7 @@ I'm majoring in Public Administratio at UDESC and one of my passions is entrepre
 
 Beyond the graduation, I'm studying Data Science and looking to integrate my areas of interest to this area.
 
-Actually I'm intern at [Fundação CERTI](https://www.certi.org.br/), supporting the development of projects related to ecosystems and innovation environments around Brazil. 
+Actually I'm intern at [Fundação CERTI](https://www.certi.org.br/), supporting the development of projects related to ecosystems and innovation environments around the country. 
 
 During the time I participated in [ESAG's Atlética](https://www.linkedin.com/company/atleticaesag/), as a project advisor, one of my greatest lessons was to understand that different experiences have an impact lives. Since then I have been looking to live and provide incredible experiences in my projects, whether professional or personal.
 
