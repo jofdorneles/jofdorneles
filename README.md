@@ -1,47 +1,59 @@
-<p align="center">
-  <img src="DataScience.png" >
-</p>
+# Hi, I'm João Felipe 👋
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jofdorneles)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaofelipedorneles/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jofdorneles@gmail.com)
+**Project & Product Manager** · Digital & AI Products · Agile, UX and Stakeholder Management<br>
+📍 Florianópolis, Brazil · open to remote work
 
-# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofelipedorneles/)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:jofdorneles@gmail.com)
 
-You can call me João Felipe, I was born in Florianópolis, the Magic Island, in Santa Catarina, Brazil.
+I lead digital products end-to-end, from scope and roadmap to launch, keeping design and development teams aligned with business goals. I have **5+ years** of experience and **35+ international projects** delivered across edtech, healthtech, mobility and AI. Working in a multi-segment studio taught me to ramp up fast on any domain and adapt strategy, process and communication to each team and industry.
 
-I'm majoring in Public Administratio at UDESC and one of my passions is entrepreneurship, mainly connected with subjects such as: innovation and technology, sport and entertainment.
+### 🚀 Right now
 
-Beyond the graduation, I'm studying Data Science and looking to integrate my areas of interest to this area.
+- **Project Manager @ Atomsix Studio** (Aug 2025 – present), promoted from Jr. Project Analyst
+- Led the **first fully AI-powered product** the studio delivered to a client, end-to-end from scope to launch
+- Coordinating multidisciplinary design & dev squads on UX/UI, websites, apps and AI/LLM-based solutions
 
-Actually I'm intern at [iSPORTiSTiCS](https://isportistics.com/).
+### 🧭 Path so far
 
-During the time I participated in [ESAG's Atlética](https://www.linkedin.com/company/atleticaesag/), as a project advisor, one of my greatest lessons was to understand that different experiences have an impact lives. Since then I have been looking to live and provide incredible experiences in my projects, whether professional or personal.
+| Period | Role | Where |
+| --- | --- | --- |
+| 2025 – now | Project Manager | Atomsix Studio |
+| 2024 – 2025 | Jr. Project Analyst | Atomsix Studio |
+| 2022 – 2024 | Business Intern → Jr. Business Analyst | mantis•ai (AI SaaS startup) |
+| 2022 – 2023 | Project Manager | NEPEGEM – Sports Management & Innovation Lab (UDESC) |
+| 2021 – 2022 | Project Assistant (Intern) | Fundação CERTI |
+| 2020 – 2021 | Business Services (Intern) | Sebrae SC |
+| 2019 | Project Manager | LabTIC – UDESC |
 
+At **mantis•ai** I helped build the Customer Success function, built client-health dashboards in Looker Studio, researched LLM models for new features and ran competitor analyses to inform the roadmap.
+
+### 🛠️ Toolbox
+
+**Product & delivery:** Project Management · Product Discovery · Roadmapping · Scrum / Kanban · UX/UI · Stakeholder Management · Customer Success · QA<br>
+**Data & AI:** AI/LLM products · Python · Looker Studio · Power BI · Google Sheets<br>
+**Tools:** Jira · Confluence · HubSpot · Trello
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### 🎓 Education & learning
+
+- B.A. in Public Administration, UDESC / ESAG (coursework completed, thesis pending)
+- Product Management, PM3 · Python do Zero, Sigmoidal · SportsTech, ESPM · SportIn Global Mentorship S01
+
+🌎 Portuguese (native) · English (full professional) · Spanish (basic)
+
+### 📂 Repositories
+
+- [data_science](https://github.com/jofdorneles/data_science): data science studies and projects
+- [estudos_python](https://github.com/jofdorneles/estudos_python): Python scripts and exercises
 
 ---
-**Where to find me:**
 
-[LinkedIn](https://www.linkedin.com/in/joaofelipedorneles/)
-
-[E-mail](mailto:jofdorneles@gmail.com)
-
-## Check my projects:
-
-[DataScience](https://github.com/jofdorneles/data_science/blob/main/README.md)
-
-[Python Scripts](https://github.com/jofdorneles/estudos_python)
-<!--
-**jofdorneles/jofdorneles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about product delivery, AI products, or innovation in sports.
